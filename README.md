@@ -46,9 +46,9 @@ The wiring and connector documentation should be used together with the .cfg fil
 | Step            | PA4     | Step signal |
 | Direction       | PA1     | Direction signal |
 | Enable          | PA0     | Active low |
-| Heater (Hot end)         | PB10    | Hotend heater MOSFET |
-| Thermistor (Nozzle)      | PC5     | ATC Semitec 104GT-2 |
-| Heater          | PA7     | Bed heater MOSFET |
+| Load         | PB10    | Tool MOSFET |
+| Thermistor (Tool)      | PC5     | ATC Semitec 104GT-2 |
+| Load          | PA7     | Bed heater MOSFET |
 | Thermistor (Heater)      | PC4     | EPCOS 100K B57560G104F |
 
 # Data sheet
