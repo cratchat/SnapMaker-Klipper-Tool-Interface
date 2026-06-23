@@ -12,6 +12,7 @@ The configuration is designed for the original Snapmaker machine running Klipper
 This configuration also demonstrates how the Snapmaker tool connector can be used to control a stepper motor, a load output, and temperature sensing. In addition, it includes an example of using a Python interface from Klipper to control external hardware, such as a DAC-based pressure-control system.
 
 # CAD model
+The tool design is provided as a Fusion 360 CAD model in .f3d format, allowing users to inspect, modify, and adapt the mechanical design for their own Snapmaker Klipper modification setup.
 
 # Wiring and Connector
 
