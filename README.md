@@ -47,8 +47,8 @@ The wiring and connector documentation should be used together with the .cfg fil
 # Data sheet
 * [ISE40-T1-22L Datasheet](https://www.smcpneumatics.com/pdfs/ISE40_ZSE40.pdf)
 * [SYJ512M-5MZ-M5-F Datasheet](https://www.smcpneumatics.com/pdfs/SYJ_3PT.pdf)
-* [SMC ITV2-TF2Z205EN Manual](https://www.smc.com.cn/upfiles/etc/international/imm/ITV2-TF2Z205EN.pdf)
-* [SMC ITV2-TF2Z205EN Datasheet](https://www.smcworld.com/upfiles/manual/en-jp/files/DIU-60D00-OM002.pdf)
+* [SMC ITV Manual](https://www.smc.com.cn/upfiles/etc/international/imm/ITV2-TF2Z205EN.pdf)
+* [SMC ITV Datasheet](https://www.smcworld.com/upfiles/manual/en-jp/files/DIU-60D00-OM002.pdf)
 * [SMC CDUJB10-15D Datasheet](https://content.smcetech.com/pdf/CUJ_EU.pdf)
 * [ET-MINI I2C D/A 0-10V TH Manual](https://www.etteam.com/prodintf/ET-MINI-I2C-DA-10V/th-man-ET-MINI-I2C-DA-10V.pdf)
 * [5 Port Solenoid Valve Series SY3000](https://th.c.misumi-ec.com/book/SMC1_ENG_01/digitalcatalog.html?)
