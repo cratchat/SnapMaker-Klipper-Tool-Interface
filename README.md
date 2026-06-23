@@ -50,6 +50,7 @@ The wiring and connector documentation should be used together with the .cfg fil
 * [SMC ITV2-TF2Z205EN Manual](https://www.smc.com.cn/upfiles/etc/international/imm/ITV2-TF2Z205EN.pdf)
 * [SMC ITV2-TF2Z205EN Datasheet](https://www.smcworld.com/upfiles/manual/en-jp/files/DIU-60D00-OM002.pdf)
 * [SMC CDUJB10-15D Datasheet](https://content.smcetech.com/pdf/CUJ_EU.pdf)
+* [ET-MINI I2C D/A 0-10V TH Manual](https://www.etteam.com/prodintf/ET-MINI-I2C-DA-10V/th-man-ET-MINI-I2C-DA-10V.pdf)
 
 # References
 1. Snapmaker Klipper by Ninth2234 : https://github.com/Ninth2234/snapmaker_klipper
