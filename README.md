@@ -47,7 +47,8 @@ The wiring and connector documentation should be used together with the .cfg fil
 # Data sheet
 * [ISE40-T1-22L Datasheet](https://www.smcpneumatics.com/pdfs/ISE40_ZSE40.pdf)
 * [SYJ512M-5MZ-M5-F Datasheet](https://www.smcpneumatics.com/pdfs/SYJ_3PT.pdf)
-* [SMC ITV2-TF2Z205EN Datasheet](https://www.smc.com.cn/upfiles/etc/international/imm/ITV2-TF2Z205EN.pdf)
+* [SMC ITV2-TF2Z205EN Manual](https://www.smc.com.cn/upfiles/etc/international/imm/ITV2-TF2Z205EN.pdf)
+* [SMC ITV2-TF2Z205EN Datasheet](https://www.smcworld.com/upfiles/manual/en-jp/files/DIU-60D00-OM002.pdf)
 * [SMC CDUJB10-15D Datasheet](https://content.smcetech.com/pdf/CUJ_EU.pdf)
 
 # References
