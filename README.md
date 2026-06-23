@@ -34,6 +34,16 @@ The tool connector information is provided to support custom tool development. I
 
 The wiring and connector documentation should be used together with the .cfg file to verify pin assignments before powering or operating the machine.
 
+| Function        | MCU Pin | Notes |
+|-----------------|---------|-------|
+| Step            | PA4     | Step signal |
+| Direction       | PA1     | Direction signal |
+| Enable          | PA0     | Active low |
+| Heater (Hot end)         | PB10    | Hotend heater MOSFET |
+| Thermistor (Nozzle)      | PC5     | ATC Semitec 104GT-2 |
+| Heater          | PA7     | Bed heater MOSFET |
+| Thermistor (Heater)      | PC4     | EPCOS 100K B57560G104F |
+
 # References
 1. Snapmaker Klipper by Ninth2234 : https://github.com/Ninth2234/snapmaker_klipper
 2. open-interface-pressure-controller by schaiwuth : https://github.com/schaiwuth/open-interface-pressure-controller
