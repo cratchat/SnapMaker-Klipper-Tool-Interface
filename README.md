@@ -2,7 +2,7 @@
 
 # Snapmaker Klipper
 
-## Overview
+# Overview
 
 # Configuration file (.cfg)
 
