@@ -13,16 +13,15 @@ The configuration is designed for the original Snapmaker machine running Klipper
 
 ## This configuration also demonstrates how the Snapmaker tool connector can be used to control a stepper motor, a load output, and temperature sensing. In addition, it includes an example of using a Python interface from Klipper to control external hardware, such as a DAC-based pressure-control system.
 
-The example Klipper configuration demonstrates four main types of tool interfaces:
-
+## The example Klipper configuration demonstrates four main types of tool interfaces:
 ## Load Control
-A digital output pin is used to switch an external load on or off, such as a solenoid valve, relay, LED, pump, or other actuator.
-Stepper Control
-## A manual stepper motor is configured for controlling a custom tool mechanism, such as a syringe pump, plunger, rotary tool, or material-feeding mechanism.
-Thermistor / Temperature Sensing
-## A thermistor input is configured to measure the temperature of the tool. This allows Klipper to monitor tool temperature for heated tools, process monitoring, or safety checking.
+### A digital output pin is used to switch an external load on or off, such as a solenoid valve, relay, LED, pump, or other actuator.
+## Stepper Control
+### A manual stepper motor is configured for controlling a custom tool mechanism, such as a syringe pump, plunger, rotary tool, or material-feeding mechanism.
+## Thermistor / Temperature Sensing
+### A thermistor input is configured to measure the temperature of the tool. This allows Klipper to monitor tool temperature for heated tools, process monitoring, or safety checking.
 ## External Interface through I2C
-An external Python interface is demonstrated for communicating with an I2C device, such as the GP8403 DAC. This allows Klipper to control external hardware, for example pressure control, analog voltage output, pneumatic control, or other custom tool functions.
+### An external Python interface is demonstrated for communicating with an I2C device, such as the GP8403 DAC. This allows Klipper to control external hardware, for example pressure control, analog voltage output, pneumatic control, or other custom tool functions.
 
 # CAD model
 The tool design is provided as a Fusion 360 CAD model in .f3d format, allowing users to inspect, modify, and adapt the mechanical design for their own Snapmaker Klipper modification setup.
