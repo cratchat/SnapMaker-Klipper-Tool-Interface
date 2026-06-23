@@ -22,3 +22,6 @@ The tool connector information is provided to support custom tool development. I
 The wiring and connector documentation should be used together with the .cfg file to verify pin assignments before powering or operating the machine.
 
 # References
+a. Snapmaker Klipper by Ninth2234 : https://github.com/Ninth2234/snapmaker_klipper
+b. open-interface-pressure-controller by schaiwuth : https://github.com/schaiwuth/open-interface-pressure-controller
+c. Pico-Pneumatic-Valve by Ninth2234 : https://github.com/Ninth2234/Pico-Pneumatic-Valve
