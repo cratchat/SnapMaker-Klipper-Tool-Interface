@@ -44,6 +44,10 @@ The wiring and connector documentation should be used together with the .cfg fil
 | Heater          | PA7     | Bed heater MOSFET |
 | Thermistor (Heater)      | PC4     | EPCOS 100K B57560G104F |
 
+# Data sheet
+* [ISE40-T1-22L Datasheet](https://www.smcpneumatics.com/pdfs/ISE40_ZSE40.pdf)
+* [SYJ512M-5MZ-M5-F Datasheet](https://www.smcpneumatics.com/pdfs/SYJ_3PT.pdf)
+
 # References
 1. Snapmaker Klipper by Ninth2234 : https://github.com/Ninth2234/snapmaker_klipper
 2. open-interface-pressure-controller by schaiwuth : https://github.com/schaiwuth/open-interface-pressure-controller
