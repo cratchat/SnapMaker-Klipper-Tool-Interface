@@ -24,6 +24,9 @@ The example Klipper configuration demonstrates four main types of tool interface
 4. External Interface through I2C
    An external Python interface is demonstrated for communicating with an I2C device, such as the GP8403 DAC. This allows Klipper to control external hardware, for example pressure control, analog voltage output, pneumatic control, or other custom tool functions.
 
+*[GP8403 Python Script](script/gp8403.py)
+*[Python Pressure Control Script](script/pressure.py)
+
 # CAD model
 The tool design is provided as a Fusion 360 CAD model in .f3d format, allowing users to inspect, modify, and adapt the mechanical design for their own Snapmaker Klipper modification setup.
 * [CAD](cad/Snapmaker klipper.f3z)
