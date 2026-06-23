@@ -29,8 +29,8 @@ The example Klipper configuration demonstrates four main types of tool interface
 
 # CAD model
 The tool design is provided as a Fusion 360 CAD model in .f3d format, allowing users to inspect, modify, and adapt the mechanical design for their own Snapmaker Klipper modification setup.
-* [CAD](cad/SnapmakerKlipper.f3z)
-* [CAD](cad/SnapmakerKlipper.step)
+* [Fusion 360](cad/SnapmakerKlipper.f3z)
+* [STEP](cad/SnapmakerKlipper.step)
 
 # Wiring and Connector
 This section provides the wiring diagram and connector information for the Snapmaker Klipper modification. The wiring diagram shows how the Klipper firmware interacts with the input and output pins of the controller board, including stepper motor signals, endstop inputs, temperature sensor inputs, auxiliary outputs, and power-control signals.
