@@ -29,7 +29,8 @@ The example Klipper configuration demonstrates four main types of tool interface
 
 # CAD model
 The tool design is provided as a Fusion 360 CAD model in .f3d format, allowing users to inspect, modify, and adapt the mechanical design for their own Snapmaker Klipper modification setup.
-* [CAD](cad/Snapmaker klipper.f3z)
+* [Fusion 360](cad/SnapmakerKlipper.f3z)
+* [STEP](cad/SnapmakerKlipper.step)
 
 # Wiring and Connector
 This section provides the wiring diagram and connector information for the Snapmaker Klipper modification. The wiring diagram shows how the Klipper firmware interacts with the input and output pins of the controller board, including stepper motor signals, endstop inputs, temperature sensor inputs, auxiliary outputs, and power-control signals.
@@ -45,9 +46,9 @@ The wiring and connector documentation should be used together with the .cfg fil
 | Step            | PA4     | Step signal |
 | Direction       | PA1     | Direction signal |
 | Enable          | PA0     | Active low |
-| Heater (Hot end)         | PB10    | Hotend heater MOSFET |
-| Thermistor (Nozzle)      | PC5     | ATC Semitec 104GT-2 |
-| Heater          | PA7     | Bed heater MOSFET |
+| Load         | PB10    | Tool MOSFET |
+| Thermistor (Tool)      | PC5     | ATC Semitec 104GT-2 |
+| Load          | PA7     | Bed heater MOSFET |
 | Thermistor (Heater)      | PC4     | EPCOS 100K B57560G104F |
 
 # Data sheet
