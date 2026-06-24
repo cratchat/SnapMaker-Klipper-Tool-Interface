@@ -1,5 +1,5 @@
 # SnapMaker-Klipper-Tool-Interface
-![Snap Maker with Klipper](images/Snap%20Maker%20with%20Klipper.jpg)
+![Snap Maker with Klipper](images/SnapMakerWithKlipper.jpg)
 This project documents the modification of the original Snapmaker platform to run Klipper firmware. The aim is to provide an open and reproducible reference for converting the Snapmaker machine into a flexible Klipper-controlled motion platform for experimental tool development, 3D printing, and hardware research.
 
 The repository provides the Klipper configuration file, CAD model, connection information, wiring diagram, connector pinout, and technical references required to understand and reproduce the modification. The project focuses on how Klipper interacts with the Snapmaker hardware through stepper motor control, input/output pins, temperature sensing, auxiliary outputs, and custom G-code macros.
